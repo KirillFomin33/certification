@@ -44,9 +44,9 @@ git checkout branch_name
 ```sh
 git merge master
 ```
-Создание новой ветки
+Создание new ветки
 ```sh
-git branch <имя новой ветки>
+git branch <имя new ветки>
 ```
 Команда удаление ветки:
 ```sh
