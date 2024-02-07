@@ -40,3 +40,7 @@ git branch
 ```sh
 git checkout branch_name
 ```
+Команда слияния веток в одну:
+```sh
+git merge master
+```
