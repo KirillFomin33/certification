@@ -48,3 +48,8 @@ git merge master
 ```sh
 git branch <имя новой ветки>
 ```
+Команда удаление ветки:
+```sh
+git branch <имя ветки>
+```
+
