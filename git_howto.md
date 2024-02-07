@@ -36,3 +36,7 @@ git diff
 ```sh
 git branch
 ```
+Перейти на другую ветку (branch_name):
+```sh
+git checkout branch_name
+```
