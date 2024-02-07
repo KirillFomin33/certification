@@ -32,3 +32,7 @@ git chekout master
 ```sh
 git diff
 ```
+Посмотреть какие ветки имеются и на какой ветке мы находимся:
+```sh
+git branch
+```
