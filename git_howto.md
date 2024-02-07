@@ -10,7 +10,7 @@ git add
 ```
 Зафиксировать текущее состояние:
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 Открыть журнал сохранений:
 ```sh
