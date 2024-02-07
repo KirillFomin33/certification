@@ -52,4 +52,7 @@ git branch <имя new ветки>
 ```sh
 git branch -d <имя ветки>
 ```
-
+Открыть журнал сохранений с ключем graph:
+```sh
+git log --oneline --graph
+```
