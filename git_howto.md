@@ -36,9 +36,9 @@ git diff
 ```sh
 git branch
 ```
-Перейти на другую ветку (name_branch):
+Перейти на другую ветку (branch_name):
 ```sh
-git checkout name_branch
+git checkout branch_name
 ```
 Команда слияния веток в одну:
 ```sh
